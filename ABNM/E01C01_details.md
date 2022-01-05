@@ -45,28 +45,7 @@ Intro
 - Last day at work goes crazy
 
 
-ROOMS
 
-Home
-
-- Bedroom
-- Media Room
-- Bathroom
-- Off the grid workshop
-
-
-Shady Surgeon
-
-- Dirty Lobby
-- Shady Operating Room
-
-Office
-
-- Entrance (secretary, security)
-- The Space Jungle Corridors
-- Refreshments machine
-- Workstation
-- Various meeting rooms
 
 
 Main endings
