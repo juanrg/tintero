@@ -48,8 +48,8 @@ Intro
 
 
 
-Main endings
-------------
+Cannon endings
+--------------
 
 After achieving enough notoriety (through both winning fights and publicity stunts), he gets an offer to join an international fighting circuit and quits his job. There are 2 addendums to this ending:
 
@@ -72,4 +72,11 @@ Minor bad endings
 - UF gets arrested for illegal mods. 
 
 
+(TODO integrate): VORM
+-----------------------
 
+
+- Very Old Rich Man (VORM) is mentor-rival for first chapter
+- VORM was a lucid, wheelchair bound man that decided to undergo risky experimental surgery. He replaced his 4 limbs and jacked his nervous system. He competes in the fighting arena without any prior fighting experience.
+- First fight is against VORM. Before fight, VORM talks with Fighter as VORM both come from the same environment (corporate society), and VORMs paternal instincts kick in (while not inmediately obvious)
+- Last fight is against VORM.
